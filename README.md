@@ -10,7 +10,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 # Hi there, I am Radya 🦭
 
-<a href="https://discord.com/channels/@me/299152387728343043">
+<a href="">
   <img align="left" alt="Radya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/travisskrtt">
@@ -31,3 +31,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 #### My recent play 🎸
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kub72dxx53fgpzvsub3ji2q&count=3&width=500)
+
+-----
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raadyaa)](https://github.com/anuraghazra/github-readme-stats)
