@@ -29,9 +29,15 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 ###### I am an iOS Developer and a passionate Project Manager that currently learning in **Apple Developer Academy @Binus**. I love building interface and working on mobile apps. I'm also a junior student **@Brawijaya University** majoring in Information System.
 
-#### My recent play 🎸
+#### My recent play 🎷
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kub72dxx53fgpzvsub3ji2q&count=3&width=500)
 
 -----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raadyaa)](https://github.com/anuraghazra/github-readme-stats)
+### My Progressing GitHub Stats 📈
+
+<p style="display:flex;" align="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=raadyaa&theme=blux&&background=0d1117&border=444" height="155">
+    <img src="https://github-readme-stats.vercel.app/api?username=raadyaa&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
+</p>
+
