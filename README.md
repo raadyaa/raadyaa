@@ -79,26 +79,26 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 </details>
 
 <details>
-  <summary><b>Hit me up</b></summary>
+  <summary><b>Hit me up 🤝</b></summary>
   <br/>
   Reach me out at <a href="mailto:radyafarrel@gmail.com">radyafarrel@gmail.com</a>.
   Looking forward for any opportunity to learn and collaborate!
 </details>
 
 <details>
-  <summary><b>Buy me a Coffee ☕️</b></summary>
+  <summary><b>Sawer dong a 💰 </b></summary>
   <div align="left">
     <br/>
-    <a href="https://saweria.co/radya" target="_blank"><img src="saweria.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+    <a href="https://saweria.co/radya" target="_blank"><img src="sawer.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
   </div>
 </details>
 
 <details>
-  <summary><b>Wire me Crypto 🦝</b></summary>
+  <summary><b>Wire me ETH 💎</b></summary>
   <br/> 
    
   ```
-   test
+   0x382d4221b76Afaa165A2EC529370879643E66b99
   ```
  
 </details>
