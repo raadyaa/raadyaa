@@ -29,8 +29,13 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 ###### I am an iOS Developer and a passionate Project Manager that currently learning in **Apple Developer Academy @Binus**. I love building interface and working on mobile apps. I'm also a junior student **@Brawijaya University** majoring in Information System.
 
-#### My recent play 🎷
+#### Now playing 🎸
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kub72dxx53fgpzvsub3ji2q&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+#### Recent play 🎷
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kub72dxx53fgpzvsub3ji2q&count=3&width=500)
+
+
 
 ----------
 
