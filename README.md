@@ -105,5 +105,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 
 <br/>
+big thanks to <a href="https://github.com/fabianferno/fabianferno" target="_blank">fabianferno</a>
 <img src="https://komarev.com/ghpvc/?username=raadyaa&color=green" align="center"/>
 
