@@ -47,7 +47,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 ----- 
 
 <a href="https://fabianferno.com/">
-    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="50%" />
+    <img src="https://media.giphy.com/media/RHOwWKH5OY7buuGHNi/giphy.gif" align="right" width="50%" />
 </a>
 
 <details>
