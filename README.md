@@ -1,7 +1,8 @@
-<a href=""><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="430" /></a>
+<a href=""><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="600" /></a>
 
 <!---
 Other Gifs
+Initial height = 430
 https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
 https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
 https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
