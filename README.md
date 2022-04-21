@@ -51,6 +51,59 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 </a>
 
 <details>
-  <summary><b>Skills 💻🌱</b></summary>
+  <summary><b>Skills Im stil learning</b></summary>
   <br/>
+  
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+  ![Php](https://img.shields.io/badge/-php-black?style=plastic&logo=php)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Web3](https://img.shields.io/badge/-Web3-black?style=plastic&logo=blockchain)
+  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.JS-black?style=plastic&logo=Next.js)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  
+  
+</details>
+
+<details>
+  <summary><b>Skills Im good at</b></summary>
+  <br/>
+  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=plastic&logo=bootstrap)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=plastic&logo=tailwindcss)
+  ![figma](https://img.shields.io/badge/-figma-black?style=plastic&logo=figma)
+  ![illustrator](https://img.shields.io/badge/-illustrator-black?style=plastic&logo=adobe)
+  
+  
+</details>
+
+<details>
+  <summary><b>Hit me up</b></summary>
+  <br/>
+  Reach me out at <a href="mailto:radyafarrel@gmail.com">radyafarrel@gmail.com</a>.
+  Looking forward for any opportunity to learn and collaborate!
+</details>
+
+<details>
+  <summary><b>Buy me a Coffee ☕️</b></summary>
+  <div align="left">
+    <br/>
+    <a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+  </div>
+</details>
+
+<details>
+  <summary><b>Wire me Crypto 🦝</b></summary>
+  <br/> 
+   
+  ```
+    0x64574dDbe98813b23364704e0B00E2e71fC5aD17
+  ```
+ 
+</details>
+
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=raadyaa&color=green" align="center"/>
 
