@@ -44,3 +44,13 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
     <img src="https://github-readme-stats.vercel.app/api?username=raadyaa&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" height="155">
 </p>
 
+----- 
+
+<a href="https://fabianferno.com/">
+    <img src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="50%" />
+</a>
+
+<details>
+  <summary><b>Skills 💻🌱</b></summary>
+  <br/>
+
