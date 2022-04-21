@@ -31,6 +31,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 #### My recent play 🎸
 
-[![Spotify](https://skywalker-utilities.vercel.app/api/spotify?background_color=0f0f0f)](https://open.spotify.com/user/21kub72dxx53fgpzvsub3ji2q?si=8c294c6865ad4a34)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21kub72dxx53fgpzvsub3ji2q&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 -----
