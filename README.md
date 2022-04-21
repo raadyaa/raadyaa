@@ -46,8 +46,8 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 ----- 
 
-<a href="https://fabianferno.com/">
-    <img src="https://media.giphy.com/media/RHOwWKH5OY7buuGHNi/giphy.gif" align="right" width="50%" />
+<a href="">
+    <img src="https://media.giphy.com/media/ZFRJj56vsCM85MYpEO/giphy.gif" align="right" width="50%" />
 </a>
 
 <details>
@@ -89,7 +89,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
   <summary><b>Buy me a Coffee ☕️</b></summary>
   <div align="left">
     <br/>
-    <a href="https://www.buymeacoffee.com/fabianferno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+    <a href="https://saweria.co/radya" target="_blank"><img src="saweria.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
   </div>
 </details>
 
@@ -98,7 +98,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
   <br/> 
    
   ```
-    0x64574dDbe98813b23364704e0B00E2e71fC5aD17
+   test
   ```
  
 </details>
