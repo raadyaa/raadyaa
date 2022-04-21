@@ -26,4 +26,4 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <br/>
 
 <!---######  I am a full-stack engineer with 3 years of professional experience in developing & designing. I love building scalable, cross-platform, decentralized apps, IoT systems & working on multimedia. I co-founded & help run Pattarai - a tech community. I’m currently pursuing my B. Tech in Information Technology at Loyola - ICAM College of Engineering and Technology.-->
-###### I am an iOS developer that currently learning in **Apple Developer Academy @Binus**. I love building interface and working on mobile apps. I'm also a junior student **@Brawijaya University** majoring in Information System
+###### I am an iOS Developer and a passionate Project Manager that currently learning in **Apple Developer Academy @Binus**. I love building interface and working on mobile apps. I'm also a junior student **@Brawijaya University** majoring in Information System
