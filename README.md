@@ -37,7 +37,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 <br/>
 <br/>
 
-----------
+*****************
 
 #### Recent play 🎷
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21kub72dxx53fgpzvsub3ji2q&count=3&width=500)
