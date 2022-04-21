@@ -47,7 +47,7 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 ----- 
 
 <a href="">
-    <img src="https://media.giphy.com/media/ZFRJj56vsCM85MYpEO/giphy.gif" align="right" width="50%" />
+    <img src="https://media.giphy.com/media/ZFRJj56vsCM85MYpEO/giphy.gif" align="right" width="20" />
 </a>
 
 <details>
@@ -105,6 +105,6 @@ https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88n
 
 
 <br/>
-big thanks to <a href="https://github.com/fabianferno/fabianferno" target="_blank">fabianferno</a>
+big thanks to <a href="https://github.com/fabianferno/fabianferno" target="_blank">fabianferno</a> for the README inspo
 <img src="https://komarev.com/ghpvc/?username=raadyaa&color=green" align="center"/>
 
