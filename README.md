@@ -1,2 +1,10 @@
-<img src="https://tenor.com/bA1qI.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-<div class="tenor-gif-embed" data-postid="21177622" data-share-method="host" data-aspect-ratio="1.03226" data-width="100%"><a href="https://tenor.com/view/where-you-at-gif-21177622">Where You GIF</a>from <a href="https://tenor.com/search/where-gifs">Where GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href=""><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="430" /></a>
+
+<!---
+Other Gifs
+https://user-images.githubusercontent.com/57835412/140383106-67f3554b-86df-42b4-aa26-82840835db27.gif - Superman
+https://i.giphy.com/media/Yc65Sk2Hwkzgk/giphy.webp -anime guy
+https://i.giphy.com/media/1jgLDGD1Bn27e/giphy.webp - anime girl
+https://media1.giphy.com/media/S9d1VcBNJVA4nUOLK4/giphy.webp?cid=ecf05e47h5ti88ngwxo9x1aa0uprw898kjst7yilab9td0b8&rid=giphy.webp&ct=s
+-->
+
