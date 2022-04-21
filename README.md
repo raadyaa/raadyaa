@@ -1,4 +1,5 @@
 <a href=""><img src="https://media.discordapp.net/attachments/726863508020658216/965274491603263628/giphy.gif" align="left" height="430" /></a>
+<a href=""><img src="https://media.giphy.com/media/RHOwWKH5OY7buuGHNi/giphy.gif" align="left" height="430" /></a>
 
 <!---
 Other Gifs
